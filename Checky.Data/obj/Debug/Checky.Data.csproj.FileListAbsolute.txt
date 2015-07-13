@@ -1,0 +1,12 @@
+C:\DEVELOPMENT\REST\Checky\Checky.Data\bin\Debug\Checky.Data.dll.config
+C:\DEVELOPMENT\REST\Checky\Checky.Data\bin\Debug\Checky.Data.dll
+C:\DEVELOPMENT\REST\Checky\Checky.Data\bin\Debug\Checky.Data.pdb
+C:\DEVELOPMENT\REST\Checky\Checky.Data\bin\Debug\EntityFramework.dll
+C:\DEVELOPMENT\REST\Checky\Checky.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\DEVELOPMENT\REST\Checky\Checky.Data\bin\Debug\EntityFramework.xml
+C:\DEVELOPMENT\REST\Checky\Checky.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\DEVELOPMENT\REST\Checky\Checky.Data\obj\Debug\Checky.Data.csprojResolveAssemblyReference.cache
+C:\DEVELOPMENT\REST\Checky\Checky.Data\obj\Debug\Checky.Data.dll
+C:\DEVELOPMENT\REST\Checky\Checky.Data\obj\Debug\Checky.Data.pdb
+C:\DEVELOPMENT\REST\Checky\Checky.Data\bin\Debug\Checky.DTO.dll
+C:\DEVELOPMENT\REST\Checky\Checky.Data\bin\Debug\Checky.DTO.pdb

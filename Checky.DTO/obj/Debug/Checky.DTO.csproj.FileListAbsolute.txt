@@ -1,0 +1,5 @@
+C:\DEVELOPMENT\REST\Checky\Checky.DTO\bin\Debug\Checky.DTO.dll
+C:\DEVELOPMENT\REST\Checky\Checky.DTO\bin\Debug\Checky.DTO.pdb
+C:\DEVELOPMENT\REST\Checky\Checky.DTO\obj\Debug\Checky.DTO.csprojResolveAssemblyReference.cache
+C:\DEVELOPMENT\REST\Checky\Checky.DTO\obj\Debug\Checky.DTO.dll
+C:\DEVELOPMENT\REST\Checky\Checky.DTO\obj\Debug\Checky.DTO.pdb
